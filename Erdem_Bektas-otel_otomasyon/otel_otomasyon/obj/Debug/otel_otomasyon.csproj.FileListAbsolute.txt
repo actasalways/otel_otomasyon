@@ -1,0 +1,58 @@
+c:\users\kafa-1500\documents\visual studio 2013\Projects\otel_otomasyon\otel_otomasyon\bin\Debug\otel_otomasyon.exe.config
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\bin\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\bin\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.Properties.Resources.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.csproj.GenerateResource.Cache
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.odamoda.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.istatistik.resources
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.exe.config
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Form2.resources
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Form3.resources
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.istatistik.resources
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.odamoda.resources
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Properties.Resources.resources
+C:\Users\KaFa-1500\Desktop\ÖDEVLER\Nesneye Yönelik Programlama\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.csproj.GenerateResource.Cache
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.exe.config
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Form2.resources
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Form3.resources
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.istatistik.resources
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.odamoda.resources
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Properties.Resources.resources
+C:\Users\KaFa-1500\Desktop\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.csproj.GenerateResource.Cache
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.exe.config
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.exe
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\bin\Debug\otel_otomasyon.pdb
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Form2.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Form3.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.istatistik.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.odamoda.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.personelListesi.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.Properties.Resources.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\otel_otomasyon.csproj.GenerateResource.Cache
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\RdlCompile.cache
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon-19.05.2018\otel_otomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.personelListesi.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\RdlCompile.cache
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\RdlCompile.compiled
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.giris.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.anaPanel.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.musteriRapor.resources
+C:\Users\KaFa-1500\Documents\Visual Studio 2013\Projects\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\actas\Desktop\otel_otomasyon\otel_otomasyon\bin\Debug\otel_otomasyon.exe.config
+C:\Users\actas\Desktop\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.exe
+C:\Users\actas\Desktop\otel_otomasyon\otel_otomasyon\obj\Debug\otel_otomasyon.pdb
